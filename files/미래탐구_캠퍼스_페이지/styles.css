@@ -8279,11 +8279,9 @@
   visibility:hidden;
 }
 #u1360 {
-  position:fixed;
-  left:50%;
-  margin-left:-280px;
-  top:50%;
-  margin-top:-255px;
+  position:absolute;
+  left:412px;
+  top:118px;
   visibility:hidden;
 }
 #u1360_state0 {
