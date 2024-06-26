@@ -16,7 +16,7 @@
   position:absolute;
   z-index:0;
 }
-#u1139 {
+#u531 {
   border-width:0px;
   position:absolute;
   left:15px;
@@ -24,7 +24,7 @@
   width:705px;
   height:930px;
 }
-#u1139_state0 {
+#u531_state0 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -42,7 +42,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u1139_state0_content {
+#u531_state0_content {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -50,7 +50,7 @@
   width:1px;
   height:1px;
 }
-#u1140_img {
+#u532_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -58,7 +58,7 @@
   width:681px;
   height:1056px;
 }
-#u1140 {
+#u532 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -67,20 +67,20 @@
   height:1056px;
   display:flex;
 }
-#u1140 .text {
+#u532 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u1140_text {
+#u532_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-#u1141_div {
+#u533_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -94,13 +94,13 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:12px;
   text-align:center;
 }
-#u1141 {
+#u533 {
   border-width:0px;
   position:absolute;
   left:150px;
@@ -108,25 +108,25 @@
   width:75px;
   height:25px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:12px;
   text-align:center;
 }
-#u1141 .text {
+#u533 .text {
   position:absolute;
   align-self:center;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
 }
-#u1141_text {
+#u533_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
 }
-#u1139_state1 {
+#u531_state1 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -145,7 +145,7 @@
   box-shadow:none;
   visibility:hidden;
 }
-#u1139_state1_content {
+#u531_state1_content {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -153,7 +153,7 @@
   width:1px;
   height:1px;
 }
-#u1142 {
+#u534 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -161,7 +161,7 @@
   width:0px;
   height:0px;
 }
-#u1143_img {
+#u535_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -169,7 +169,7 @@
   width:681px;
   height:1060px;
 }
-#u1143 {
+#u535 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -178,20 +178,20 @@
   height:1060px;
   display:flex;
 }
-#u1143 .text {
+#u535 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u1143_text {
+#u535_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-#u1144_div {
+#u536_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -205,13 +205,13 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:12px;
   text-align:center;
 }
-#u1144 {
+#u536 {
   border-width:0px;
   position:absolute;
   left:150px;
@@ -219,25 +219,25 @@
   width:75px;
   height:25px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:12px;
   text-align:center;
 }
-#u1144 .text {
+#u536 .text {
   position:absolute;
   align-self:center;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
 }
-#u1144_text {
+#u536_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
 }
-#u1145 {
+#u537 {
   position:fixed;
   left:50%;
   margin-left:-360px;
@@ -245,7 +245,7 @@
   width:720px;
   height:45px;
 }
-#u1145_state0 {
+#u537_state0 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -263,7 +263,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u1145_state0_content {
+#u537_state0_content {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -271,7 +271,7 @@
   width:1px;
   height:1px;
 }
-#u1146_div {
+#u538_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -286,7 +286,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u1146 {
+#u538 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -295,20 +295,20 @@
   height:45px;
   display:flex;
 }
-#u1146 .text {
+#u538 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u1146_text {
+#u538_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-#u1147_div {
+#u539_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -322,14 +322,14 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:10px;
   color:#FFFFFF;
   line-height:18px;
 }
-#u1147 {
+#u539 {
   border-width:0px;
   position:absolute;
   left:310px;
@@ -337,21 +337,21 @@
   width:100px;
   height:25px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:10px;
   color:#FFFFFF;
   line-height:18px;
 }
-#u1147 .text {
+#u539 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u1147_text {
+#u539_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
